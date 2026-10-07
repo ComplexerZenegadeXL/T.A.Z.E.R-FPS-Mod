@@ -4,4 +4,6 @@ To Expand On The Arsenal Focused On Bringing Weapons From The Youtuber Tigerfiel
 Will Implement More Of Them Overtime To Keep Track Of What Tigerfield Is Uploading So Far...
 
 Weapons Models Will Be Based On Their IRL Counterparts Along With Real Life Accurate Mechanics (Except For Railgun And Gauss Cannon For
-Being Fictional),Alongside Abilities Based On The Game Bodycam And Other FPS Games With Realistic Mechanics
+Being Fictional),Alongside Abilities Based On The Game Bodycam And Other FPS Games With Realistic Mechanics.
+
+The Mod Currently Has 466 Weapons Since It Will Serve Basically As A Playable Weapon Encyclopedia With Weapons Being Added Overtime Sourced From Either Tigerfield,Games And Wikis.
