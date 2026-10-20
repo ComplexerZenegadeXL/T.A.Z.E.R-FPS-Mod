@@ -6,7 +6,8 @@ S.T.A.L.K.E.R. Weapons Mod Assets:RastaManGames
 Guncaster Destruction And Assets:Outrageous Productions
 Dark Hell Forged HUD Assets And TitleMap:DiegoSlayer12
 Doom TestMap:Kinsie
-Weapon Sprites:Real Life(Transparent Versions By Me)
+Combat Arms Assets:Nexon
+Weapon Sprites:Real Life(Transparent Versions By Me),Crossfire Assets (Smilegate Entertainment,Blackbird Interactive,That's No Moon),Warface Assets (Crytek Kiev,Blackwood Games And MY.Games)
 3D Artist/Spriter:TBA
 Weapon Coder:TBA
 Weapon Effects Maker:TBA
